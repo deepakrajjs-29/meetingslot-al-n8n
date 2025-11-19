@@ -1,5 +1,5 @@
 <div align="center">
- 
+  
 # 🤖 MeetingSlot AI
 
 ### *Intelligent Meeting Scheduling Powered by n8n*
