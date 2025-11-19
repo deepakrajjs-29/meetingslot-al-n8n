@@ -16,7 +16,7 @@
 *An automated, intelligent meeting slot booking system that handles availability, confirmations, and notifications — all without writing a single line of code!*
 
 [🚀 Get Started](#-setup-instructions) • [✨ Features](#-features) • [💡 Contribute](#-ideas-to-improve)
-
+ 
 </div>
 
 ---
